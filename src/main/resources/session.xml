@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="session.xsd">
+    <exams>
+        <exam name="Software Testing">
+            <hardLevel>50</hardLevel>
+            <date>08.01.19</date>
+        </exam>
+        <exam name="Game dev">
+            <hardLevel>20</hardLevel>
+            <date>12.01.19</date>
+        </exam>
+    </exams>
+    <credits>
+        <credit name="parallel">
+            <date>26.12.18</date>
+            <date>19.01.19</date>
+            <date>25.01.19</date>
+        </credit>
+    </credits>
+
+</session>
